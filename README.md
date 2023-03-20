@@ -150,3 +150,4 @@ pycodestyle models/user.py; chmod +x models/user.py;
 
 ## 8. DBStorage - Place 
 Update Place: (models/place.py)
+20-03-2023
